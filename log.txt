@@ -1,0 +1,12 @@
+07/04/2023 10:12:12 - https://www.alura.com.br - online: true
+07/04/2023 10:12:12 - https://www.caelum.com.br - online: true
+07/04/2023 10:12:17 - https://www.alura.com.br - online: true
+07/04/2023 10:12:17 - https://www.caelum.com.br - online: true
+07/04/2023 10:12:22 - https://www.alura.com.br - online: true
+07/04/2023 10:12:23 - https://www.caelum.com.br - online: true
+07/04/2023 10:16:19 - https://www.alura.com.br - online: true
+07/04/2023 10:16:19 - https://www.caelum.com.br - online: true
+07/04/2023 10:16:24 - https://www.alura.com.br - online: true
+07/04/2023 10:16:25 - https://www.caelum.com.br - online: true
+07/04/2023 10:16:30 - https://www.alura.com.br - online: true
+07/04/2023 10:16:30 - https://www.caelum.com.br - online: true
